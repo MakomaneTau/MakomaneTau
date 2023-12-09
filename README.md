@@ -11,3 +11,13 @@
   <li>LaTeX</li>
 </ul>
 
+<p>I have tasked myself with a number of projects which i believe would help me with my programming skills. The projects are inspired from mathematical problems, variouos internet sources, or personal exeperiences</p>
+
+<h3>My Projects: </h3>
+<ul>
+  <li>1. Area of shapes calculator</li>
+  <li>2. Random password generator</li>
+  <li>3. </li>
+  <li>4. </li>
+  <li>5. </li>
+</ul>
