@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2>Hi there 👋 </h2>
 
-<!--
-**MakomaneTau/MakomaneTau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My name is Makomane Pontsho Tau, I am currently a first year student at the University of the Witwatersrand, studying a Bachelors degree in Computer Science.</h2>
 
-Here are some ideas to get you started:
+<h3>Known coding languages: </h3>
+<ul>
+  <li>C++</li>
+  <li>Python</li>
+  <li>HTML + CSS</li>
+  <li>Java</li>
+  <li>LaTeX</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
