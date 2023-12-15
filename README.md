@@ -8,8 +8,8 @@
   <li><a href="https://github.com/MakomaneTau/cpp-beginner-projects">C++</a></li>
   <li><a href="https://github.com/MakomaneTau/Python-beginner-Projects">Python</a></li>
   <li><a href="https://github.com/MakomaneTau/ecommerce-website-Real-is-Rare-Apparel-">HTML + CSS</a></li>
-  <li><a href="">Java</a></li>
-  <li><a href="">LaTeX</a></li>
+  <li><a href="https://github.com/MakomaneTau/java-beginner-projects">Java</a></li>
+  <li><a href="https://github.com/MakomaneTau/LaTeX-scripts">LaTeX</a></li>
 </ul>
 
 <p>I have tasked myself with a number of projects which i believe would help me with my programming skills. The projects are inspired from mathematical problems, variouos internet sources, or personal exeperiences</p>
