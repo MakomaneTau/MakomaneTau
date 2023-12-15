@@ -3,6 +3,9 @@
 <h2>My name is Makomane Pontsho Tau, I am currently a first year student at the University of the Witwatersrand, studying a Bachelors degree in Computer Science.</h2>
 
 <h3>Known coding languages: </h3>
+
+<p>Click on item to view repository</p>
+
 <ul>
   <li>C++</li>
   <li>Python</li>
@@ -19,5 +22,6 @@
   <li>2. Random password generator</li>
   <li>3. Fibonnacci squence generator</li>
   <li>4. Timed math problems</li>
-  <li>5. </li>
+  <li>5. Password Managemnet System</li>
+  <li>6. Clothing store ecommerce website </li>
 </ul>
