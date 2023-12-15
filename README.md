@@ -17,7 +17,7 @@
 <ul>
   <li>1. Area of shapes calculator</li>
   <li>2. Random password generator</li>
-  <li>3. </li>
-  <li>4. </li>
+  <li>3. Fibonnacci squence generator</li>
+  <li>4. Timed math problems</li>
   <li>5. </li>
 </ul>
