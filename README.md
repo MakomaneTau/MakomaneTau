@@ -22,4 +22,5 @@
   <li>4. Timed math problems</li>
   <li>5. Password Managemnet System</li>
   <li>6. Clothing store ecommerce website </li>
+   <li>7. LaTeX Applied Math Assignment Script</li>
 </ul>
