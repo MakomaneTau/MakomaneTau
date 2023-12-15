@@ -4,8 +4,6 @@
 
 <h3>Known coding languages: </h3>
 
-<p>Click on item to view repository</p>
-
 <ul>
   <li><a href="https://github.com/MakomaneTau/cpp-beginner-projects">C++</a></li>
   <li><a href="https://github.com/MakomaneTau/Python-beginner-Projects">Python</a></li>
