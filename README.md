@@ -16,11 +16,5 @@
 
 <h3>My Projects: </h3>
 <ul>
-  <li>1. Area of shapes calculator</li>
-  <li>2. Random password generator</li>
-  <li>3. Fibonnacci squence generator</li>
-  <li>4. Timed math problems</li>
-  <li>5. Password Managemnet System</li>
-  <li>6. Clothing store ecommerce website </li>
-   <li>7. LaTeX Applied Math Assignment Script</li>
+
 </ul>
