@@ -3,13 +3,13 @@
 
 <h3 align="left">About me:</h3>
 
-- 🎯 I aspire to build a career in cybersecurity. I believe that digital security is a fundamental right, and I want to help businesses and individuals protect their data and maintain their privacy. </br>
+- 🎯 I believe that one man's idea and passion can make a difference for millions of people - which is why I love to build. I want to help people by using technology to improve their daily lives. Watch the space world! </br>
 
 - 📚 “Life is a never-ending lesson.” I’m always eager to learn and grow, continuously developing my technical skills and broadening my understanding of the ever-evolving tech landscape.</br>
 
 - 💻  Currently, I’m focused on enhancing my skills in web development, system security, and cloud technologies, while exploring opportunities to apply these skills to real-world challenges. </br>
 
-- 🚀 My long-term goal is to become a cybersecurity engineer, specializing in building secure and resilient digital systems that empower users safely.</br>
+- 🚀 My long-term goal is to build a system that will be used by millions of people in South Africa.</br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makomanetau" alt="makomanetau" /></a> </p>
 
