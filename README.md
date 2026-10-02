@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makomane Tau</h1>
-<h3 align="center">Driven final year Undergraduate Computer Science student - Univeristy of the Witwatersrand.</h3>
+<h3 align="center">Data Science honors student | Computer Science Graduate | Build for a Difference</h3>
 
 <h3 align="left">About me:</h3>
 
